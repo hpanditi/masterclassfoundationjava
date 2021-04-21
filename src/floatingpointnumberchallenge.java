@@ -12,5 +12,9 @@ public class floatingpointnumberchallenge {
 
         System.out.println("The total result is: " + myTotalValue + " kilograms");
 
+        double pi = 3.1415927d;
+        double anotherNumber = 3_000_000.4_567_890d;
+        System.out.println(pi);
+        System.out.println(anotherNumber);
     }
 }
