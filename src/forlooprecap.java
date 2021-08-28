@@ -7,7 +7,7 @@ public class forlooprecap {
 
         System.out.println("Hello");
 
-        for (int number = 100; number < 150; number += 10) {
+        for (int number = 0; number <= 150; number += 10) {
 
             System.out.println("number= " + number);
         }
