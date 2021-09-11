@@ -26,6 +26,8 @@ public class brewersbeerdrinkersone {
 
         input.close();
 
+        System.out.println("Hello");
+
         }
     }
 
