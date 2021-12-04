@@ -51,7 +51,7 @@ class ServerThread extends Thread{
     PrintWriter os=null;
     Socket s=null;
 
-    public ServerThread(Socket s){
+    public ServerThread(String s){
         this.s=s;
     }
 
