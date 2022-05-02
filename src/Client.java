@@ -2,6 +2,7 @@ import java.io.*;
 import java.net.Socket;
 
 public class Client {
+
     public static void main(String[] args) throws Exception {
         System.out.println("Enter the IP address of a machine running the server:");
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
